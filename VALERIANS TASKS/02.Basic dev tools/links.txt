@@ -1,0 +1,4 @@
+-	http://docs.oracle.com/javase/tutorial/getStarted/index.html
+-	http://docs.oracle.com/javase/tutorial/getStarted/intro/definition.html
+-	http://docs.oracle.com/javase/tutorial/getStarted/problems/index.html
+-	http://www.tutorialspoint.com/java/java_environment_setup.htm

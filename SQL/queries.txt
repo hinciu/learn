@@ -1,0 +1,18 @@
+ISNULL(col,val);//MSQSL
+ISNULL(col);//MYQSL
+IFNULL(col,val);//MYSQL
+COALESCE(col,val);//MYSQL
+ROUND(col,precision);
+CAST (original expression AS desired datatype);
+CONVERT(<new data type>,<value>);
+GETDATE();//MSQSL
+NOW();//MYQSL
+CURDATE();/MYQSL
+
+CREATE TABLE Product_List
+(
+Product_ID INT NOT NULL,
+Name VARCHAR(255) NOT NULL,
+Description VARCHAR(1000) NULL,
+Cost VARCHAR(255) NULL
+)

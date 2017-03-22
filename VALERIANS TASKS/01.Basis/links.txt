@@ -1,0 +1,14 @@
+-	http://docs.oracle.com/javase/tutorial/java/concepts/index.html
+-	http://docs.oracle.com/javase/tutorial/java/javaOO/index.html
+-	http://www.tutorialspoint.com/java/java_inheritance.htm
+-	http://www.tutorialspoint.com/java/java_modifier_types.htm
+-	http://www.tutorialspoint.com/java/java_object_classes.htm
+-	http://www.tutorialspoint.com/java/java_basic_syntax.htm
+-	http://docs.oracle.com/javase/tutorial/java/javaOO/classes.html
+-	http://www.tutorialspoint.com/java/java_object_classes.htm
+-	http://docs.oracle.com/javase/tutorial/java/javaOO/nested.html
+-	http://tutorials.jenkov.com/java/nested-classes.html
+-	http://docs.oracle.com/javase/tutorial/java/IandI/createinterface.html
+-	http://www.tutorialspoint.com/java/java_interfaces.htm
+-	http://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+-	http://tutorials.jenkov.com/java/enums.html
