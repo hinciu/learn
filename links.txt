@@ -2,4 +2,4 @@
 	https://githowto.com/ru/hosting_your_git_repositories
 
 2. Maven
-	Maven’s Dependency Management  39page
+	Maven’s Dependency Management  52page
