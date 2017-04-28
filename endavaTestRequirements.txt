@@ -1,0 +1,18 @@
+Automation Tester
+Tools and Technology Stack:  Java, Maven, Spring, Hibernate, Cucumber, Selenium, Jenkins, GIT, IBM MQ, Intellij IDEA, Confluence, JIRA, BitBucket;
+Manual Tester
+Tools and Technology Stack: RFHUtil, MQ Explorer, Putty, Oracle SQL Developer, SQuirrel SQL Client, WinSCP, HEX Editor, Microsoft Excel, HP ALM (previously HP Quality Center), Jira, Turtoise GIT, Maven;
+
+Automation Tester
+
+Tools and Technology Stack:  Groovy, Gradle, Cucumber, Appium, RestAssured , Git, Ansible, Jenkins, Intellij IDEA, Bitbucket, Jira,  PractiTest, Charles, Confluence;
+iOS Engineer: Application Management (AM)
+Tools and Technology Stack:  XML, JSON, Git, Jenkins , Fastlane; Swift and Objective-C, Alamofire, URLSession, Typhoon, Kiwi, Nimble;
+
+Senior DevOps Engineer
+
+Tools and Technology Stack: Git, Jenkins, Sonatype Nexus, Ansible, Puppet, AWS (all Amazon Web Services services), MongoDB, Grafana/telegraf, Nagios, CentOS, RedHat, MacOS, Networking, Automation tools, Programming skills using Python, Bash;
+
+Senior iOS Developer
+
+Tools and Technology Stack:  Xcode, Swift, Objective-C, Zeplin, Git, bundler, cocoapods, Fastlane, Jenkins, Charles proxy, Google Tag Manager, Typhoon, Swinject, Fabric;
