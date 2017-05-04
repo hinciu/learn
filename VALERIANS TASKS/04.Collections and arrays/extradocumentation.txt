@@ -1,0 +1,14 @@
+Extra documentation:
+Collections and Arrays – List, Set, Map, Queue, Arrays
+-	Main java collection types, diagram
+-	Main operations, description
+-	Difference between collection types
+-	Implementation, custom implementation
+-	Synchronized collection
+-	Interoperability, conversion
+Docs:
+-	http://docs.oracle.com/javase/tutorial/collections/index.html
+-	http://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
+-	http://www.javaworld.com/article/2461744/java-language/java-language-iterating-over-collections-in-java-8.html
+-	http://tutorials.jenkov.com/java-collections/streams.html
+-	http://zeroturnaround.com/rebellabs/java-8-explained-applying-lambdas-to-java-collections/
