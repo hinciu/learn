@@ -1,0 +1,21 @@
+Hi all,
+
+Accordingly  geteasyqa website, here are some interesting articles:
+
+Top  10 Test Management tools  for 2017. 
+https://geteasyqa.com/blog/best-test-management-tools/
+
+
+Best tools for Mobile testing:
+https://geteasyqa.com/blog/best-mobile-testing-tools/
+
+Best Tools for Performance Testing:
+https://geteasyqa.com/blog/best-tools-load-testing/
+
+Best Tools for Automation testing:
+https://geteasyqa.com/blog/best-automation-testing-tools/
+
+
+Enjoy reading !
+
+Best regards,
