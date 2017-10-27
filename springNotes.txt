@@ -1,0 +1,41 @@
+Spring 
+
+ApplicationContext interface = new
+
+	ClassPathXmlApplicationContext("spring.xml")
+
+for using annotation configuration add this tags in spring.xml
+	    
+		<!-- Scans the classpath for annotated components that will be auto-registered as Spring beans -->
+		<context:component-scan base-package="com.jpa"/>
+		<!-- Activates various annotations to be detected in bean classes e.g: @Autowired -->
+		<context:annotation-config/>
+		
+		
+	@Component - POJO; everything you want to be a bean you mark with this tags
+	@Service - business logic; also bean	
+	@Repositiry - DAO layer; also bean
+	
+for Java configuration
+
+create class eith @Configuration aanotation this class replace applicationContext
+
+
+
+Containers
+
+Beans are loade lazily expects singletones and ApplicationContext
+
+2 containers : BeanFactory and ApplicationContext
+BeanFactory usually for small projects
+ApplicationContext has 4 impl
+
+
+JDBC/ORM
+
+HibernateTemplate
+	
+
+
+
+	
